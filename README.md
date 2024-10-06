@@ -15,6 +15,5 @@ Notix offers an efficient and secure environment for users to organize and track
 ![Home 3](./app-images/profile-home-2.png)
 ![Create Note](./app-images/create-note-page.png)
 ![Note Detail](./app-images/note-detail-page.png)
-![Logs](./app-images/logs-page.png)
 ![Login](./app-images/sign-in-page.png)
 ![2FA](./app-images/2fa-page.png)
